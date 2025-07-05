@@ -6,15 +6,15 @@ A responsive full-stack web application built with **Vite + React** and **Expres
 
 ## 🚀 Features
 
-- Input form for business name and location
-- Backend-generated:
+- 📥 Input form for business name and location
+- ⚙️ Backend-generated:
   - ⭐ Business rating (4.0–5.0)
   - 📈 Review count (50–550)
   - 📰 SEO headline based on input
-- Regenerate headline button
-- Fully responsive and mobile-friendly UI
-- Tailwind CSS styling
-- Error handling for failed network requests
+- 🔁 “Regenerate SEO Headline” button
+- 📱 Fully responsive and mobile-friendly UI
+- 🎨 Tailwind CSS styling
+- ❌ Error handling for failed network requests
 
 ---
 
@@ -85,12 +85,12 @@ npm run dev
 
 ---
 
-## 🔗 (Optional) Live Demo
+## 🌐 Live Demo (Optional)
 
-If deployed:
+- 🔗 Frontend: https://growthproai-dashboard-ig59xrxm1-ns-projects-a25b0e92.vercel.app 
+- 🔗 Backend: https://growthproai-backend-rrya.onrender.com
 
-- Frontend:https://growthproai-dashboard-ig59xrxm1-ns-projects-a25b0e92.vercel.app 
-- Backend: https://growthproai-backend-rrya.onrender.com
+> ⚠️ **Note**: The backend may take a few seconds to wake up due to Render’s free-tier cold start.
 
 ---
 
