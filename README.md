@@ -89,8 +89,8 @@ npm run dev
 
 If deployed:
 
-- Frontend: https://your-frontend.vercel.app  
-- Backend: https://your-backend.vercel.app
+- Frontend:https://growthproai-dashboard-ig59xrxm1-ns-projects-a25b0e92.vercel.app 
+- Backend: https://growthproai-backend-rrya.onrender.com
 
 ---
 
