@@ -30,7 +30,7 @@ A responsive full-stack web application built with **Vite + React** and **Expres
 ## 📂 Folder Structure
 
 ```
-local-business-dashboard/
+nareshj-growthproai-dashboard/
 ├── backend/                  # Express backend
 │   ├── index.js              # Main server file
 │   └── headlines.js          # Optional: headline templates
@@ -57,8 +57,8 @@ local-business-dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/local-business-dashboard.git
-cd local-business-dashboard
+git clone https://github.com/Naresh-Jandrajupalli42/nareshj-growthproai-dashboard.git
+cd nareshj-growthproai-dashboard
 ```
 
 ### 2. Start the backend
