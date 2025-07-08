@@ -94,16 +94,16 @@ npm run dev
 
 ---
 
-## 📸 Sample Output
+## 📸 Sample Input & Output
 
-```
-Business Name: Itech
-Location: Hyderabad
+**Input:**
+- Business Name: Itech
+- Location: Hyderabad
 
-⭐ 4.5 Rating
-143 Reviews
+**Output:**
+⭐ 4.5 Rating  
+143 Reviews  
 "Why Itech is Hyderabad's Sweetest Spot in 2025"
-```
 
 ---
 
